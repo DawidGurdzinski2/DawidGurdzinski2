@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawidGurdzinski2)](https://github.com/DawidGurdzinski2/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawidGurdzinski2&hide=javascript,html)](https://github.com/DawidGurdzinski2/github-readme-stats)
 <!--
